@@ -1,0 +1,6 @@
+c:\users\administrador\documents\visual studio 2015\Projects\Formas_Polimorfismo\Formas_Polimorfismo\bin\Debug\Formas_Polimorfismo.exe.config
+c:\users\administrador\documents\visual studio 2015\Projects\Formas_Polimorfismo\Formas_Polimorfismo\bin\Debug\Formas_Polimorfismo.exe
+c:\users\administrador\documents\visual studio 2015\Projects\Formas_Polimorfismo\Formas_Polimorfismo\bin\Debug\Formas_Polimorfismo.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\Formas_Polimorfismo\Formas_Polimorfismo\obj\Debug\Formas_Polimorfismo.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2015\Projects\Formas_Polimorfismo\Formas_Polimorfismo\obj\Debug\Formas_Polimorfismo.exe
+c:\users\administrador\documents\visual studio 2015\Projects\Formas_Polimorfismo\Formas_Polimorfismo\obj\Debug\Formas_Polimorfismo.pdb
